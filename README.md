@@ -28,7 +28,7 @@ Step by step process on how to run this program.
 	.\.venv\Scripts\activate
 
 ###### Generate the dataset:
-	python3 ./knapsackGenerator.py
+	python3 ./generateKnapsacks.py
 
 This will create and fill the dataset folder heirarchy with the knapsacks.
 
